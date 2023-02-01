@@ -1,6 +1,6 @@
 ### Heey, I am Abdessmad 👋
 
-## I'm currently working as a fullstack developer
+## I'm currently working as a frontend developer
 
 -  Wokring with Angular/spring boot
 -  Always learning 
