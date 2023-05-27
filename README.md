@@ -10,9 +10,8 @@
 
 
 
-- [Wallpapp](https://www.instagram.com/developer_qwerty/)
-- [Journapp](https://www.instagram.com/developer_qwerty/)
-- [Weatherapp](https://www.instagram.com/developer_qwerty/)
+- [instagram](https://www.instagram.com/developer_qwerty/)
+
 ---
 
 ![ABDESSAMAD-ADANE's github stats](https://github-readme-stats.vercel.app/api?username=ABDESSAMAD-ADANE&show_icons=true&theme=algolia)<br>
