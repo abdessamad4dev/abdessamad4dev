@@ -1,8 +1,8 @@
 ### Heey, I am Abdessmad 👋
 
-## I'm currently working as a fullstack developer
+## I'm currently working as a web developer
 
--  Wokring with Angular/spring boot
+-  Wokring with Angular/React/java/spring boot
 -  Always learning 
 
 ### 📕 Crumbs
