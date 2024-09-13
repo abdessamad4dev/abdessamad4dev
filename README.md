@@ -1,9 +1,11 @@
-### Heey, I am Abdessmad 👋
+## Hey! My Name is Abdessamad adane I’m 25 years old fullstack developer form Morocco, based in Casablanca, and I love it When I make things look and more easy to use!
 
-## I'm currently working as a web developer
-
--  Wokring with Angular/React/java/spring boot
--  Always learning 
+• 3+ years of software development experience
+• Web-applications development (Java, Spring, Angular, php, Symfony)
+• Experience with databases (Mysql, PostgreSQL)
+• Rich front-end development (Tailwindcss, HTML5, Angular, CSS 3, Webpack, javascript, typescript)
+• Experience with many tools and methodologies (Git, Gitlab, Github, JIRA)
+• Amazon Web Services
 
 ### 📕 Crumbs
 
