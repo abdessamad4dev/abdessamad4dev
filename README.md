@@ -1,6 +1,6 @@
 ## Hey! My Name is Abdessamad adane I’m 25 years old fullstack developer form Morocco, based in Casablanca, and I love it When I make things look and more easy to use!
 
-• 3+ years of software development experience
+• 2+ years of software development experience
 • Web-applications development (Java, Spring, Angular, php, Symfony)
 • Experience with databases (Mysql, PostgreSQL)
 • Rich front-end development (Tailwindcss, HTML5, Angular, CSS 3, Webpack, javascript, typescript)
