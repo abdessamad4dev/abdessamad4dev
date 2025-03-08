@@ -1,11 +1,10 @@
-## Hey! My Name is Abdessamad adane I’m 25 years old fullstack developer form Morocco, based in Casablanca, and I love it When I make things look and more easy to use!
+## Hey everyone! I’m Abdessamad Adane, a Full-Stack Developer specializing in Symfony (PHP) and Angular, with over 2 years of experience in software development.
+• Backend Development: Symfony (PHP), API Platform, MySQL, PostgreSQL
+• Frontend Development: Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+• DevOps & Tools: Docker, Git, GitHub, GitLab, CI/CD, Nginx, Apache
+• Software Development Methodologies: Agile (Scrum/Kanban), Test-Driven Development (TDD), RESTful API desig  
 
-• 2+ years of software development experience
-• Web-applications development (Java, Spring, Angular, php, Symfony)
-• Experience with databases (Mysql, PostgreSQL)
-• Rich front-end development (Tailwindcss, HTML5, Angular, CSS 3, Webpack, javascript, typescript)
-• Experience with many tools and methodologies (Git, Gitlab, Github, JIRA)
-• Amazon Web Services
+I’m passionate about building scalable, high-performance web applications and continuously improving code quality, security, and performance. Always open to collaboration, knowledge sharing, and new opportunities—let’s contact!
 
 ### 📕 Crumbs
 
