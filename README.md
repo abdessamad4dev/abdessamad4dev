@@ -1,41 +1,34 @@
-## Hey everyone! I’m Abdessamad Adane, a Full-Stack Developer specializing in Symfony (PHP) and Angular, with over 2 years of experience in software development.
-• Backend Development: Symfony (PHP), API Platform, MySQL, PostgreSQL
-• Frontend Development: Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-• DevOps & Tools: Docker, Git, GitHub, GitLab, CI/CD, Nginx, Apache
-• Software Development Methodologies: Agile (Scrum/Kanban), Test-Driven Development (TDD), RESTful API desig  
+🚀 Hey everyone! I’m Abdessamad Adane, a Full-Stack Developer specializing in Symfony (PHP) and Angular!
+With over 2 years of experience in software development, I focus on building scalable, high-performance web applications and continuously improving code quality, security, and performance. Always open to collaborations, knowledge sharing, and new opportunities—feel free to reach out!
 
-I’m passionate about building scalable, high-performance web applications and continuously improving code quality, security, and performance. Always open to collaboration, knowledge sharing, and new opportunities—let’s contact!
+💻 Tech Stack & Skills
+Backend Development
 
-### 📕 Crumbs
+🔹 Symfony (PHP) | API Platform | MySQL | PostgreSQL
 
+Frontend Development
 
+🔹 Angular | TypeScript | JavaScript | HTML | CSS | Tailwind CSS
 
+DevOps & Tools
 
-- [instagram](https://www.instagram.com/developer_qwerty/)
+🔹 Docker | Git | GitHub | GitLab | CI/CD | Nginx | Apache
 
----
+Software Development Methodologies
 
-![ABDESSAMAD-ADANE's github stats](https://github-readme-stats.vercel.app/api?username=ABDESSAMAD-ADANE&show_icons=true&theme=algolia)<br>
+🔹 Agile (Scrum/Kanban) | Test-Driven Development (TDD) | RESTful API Design
 
+📊 GitHub Stats
 
-### Languages and Tools:
+![Abdessamad's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=abdessamad4dev&theme=algolia&hide_border=true)  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
+🛠️ Languages & Tools
+<p align="left"> <img alt="Symfony" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" /> <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img alt="GitLab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img alt="Nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> <img alt="Apache" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> </p>
 
----
-### Connect with me:
+📬 Connect with Me
 
-[<img align="left" alt="ABDESSAMAD-ADANE | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdessamad1999/)
-[<img align="left" alt="ABDESSAMAD-ADANE | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:adaneabdessamad@gmail.com)
+📧 Email: adaneabdessamad@gmail.com
+
+🔗 LinkedIn: Abdessamad Adane
+
+📷 Instagram: developer_qwerty
