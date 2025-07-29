@@ -1,5 +1,5 @@
-🚀 Hey everyone! I’m Abdessamad Adane, a Full-Stack Developer specializing in Symfony (PHP) and Angular!
-With over 2 years of experience in software development, I focus on building scalable, high-performance web applications and continuously improving code quality, security, and performance. Always open to collaborations, knowledge sharing, and new opportunities—feel free to reach out!
+Full-Stack Developer specializing in Symfony (PHP) and Angular!
+With 3 years of experience in software development, I focus on building scalable, high-performance web applications and continuously improving code quality, security, and performance. Always open to collaborations, knowledge sharing, and new opportunities—feel free to reach out!
 
 💻 Tech Stack & Skills
 Backend Development
@@ -12,7 +12,7 @@ Frontend Development
 
 DevOps & Tools
 
-🔹 Docker | Git | GitHub | GitLab | CI/CD | Nginx | Apache
+🔹 Docker | Git | GitHub | GitLab | CI/CD | Nginx | Linux
 
 Software Development Methodologies
 
